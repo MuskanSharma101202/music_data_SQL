@@ -91,6 +91,3 @@ ORDER BY miliseconds DESC;
 
 
 
-/* source: www.youtube.com/@RishabhMishraOfficial */
-
-/* Thank You :) */
